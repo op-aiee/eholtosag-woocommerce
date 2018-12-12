@@ -13,7 +13,7 @@
  * Domain Path: /languages
  *
  * @package WordPress
- * @author  Vinícius Lourenço
+ * 
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
